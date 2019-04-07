@@ -1,0 +1,7 @@
+D:\Punit\Dell\FactoryPatternDemo\FactoryService\bin\Debug\FactoryService.dll
+D:\Punit\Dell\FactoryPatternDemo\FactoryService\bin\Debug\FactoryService.pdb
+D:\Punit\Dell\FactoryPatternDemo\FactoryService\bin\Debug\FactoryContract.dll
+D:\Punit\Dell\FactoryPatternDemo\FactoryService\bin\Debug\FactoryContract.pdb
+D:\Punit\Dell\FactoryPatternDemo\FactoryService\obj\Debug\FactoryService.csprojResolveAssemblyReference.cache
+D:\Punit\Dell\FactoryPatternDemo\FactoryService\obj\Debug\FactoryService.dll
+D:\Punit\Dell\FactoryPatternDemo\FactoryService\obj\Debug\FactoryService.pdb
